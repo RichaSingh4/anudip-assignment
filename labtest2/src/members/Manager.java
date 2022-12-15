@@ -15,7 +15,4 @@ public Manager (String name,int age,String phoneNumber,Address address,int salar
 	
 }
 
-public void display() {
-	System.out.println("department:"+department);
-}
 }
